@@ -22,7 +22,7 @@ pygame.init()
 size_block = 100
 size = (340, 340)
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption("krestiki-noliki")
+pygame.display.set_caption("tic-tac-toe")
 
 width = height = 100
 
